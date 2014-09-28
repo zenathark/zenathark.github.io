@@ -19,3 +19,31 @@
 //$sidebar-pad-medium: 15px;
 //$sidebar-pad-wide: 20px;
 //$sidebar-width-wide: 300px;
+html,body {
+  height: 100%;
+  margin: 0;
+  background-color: $base03;
+  font-family: 'RobotoDraft', sans-serif;
+}
+core-header-panel {
+  height: 100%;
+  overflow: auto;
+  -webkit-overflow-scrolling: touch; 
+  core-toolbar {
+      paper-button {
+          color: #ff0000;
+          fill: #00ff00;
+          height: 48px;
+      }
+  }
+}
+
+#tabs {
+  width: 100%;
+  margin: 0;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  text-transform: uppercase;
+}

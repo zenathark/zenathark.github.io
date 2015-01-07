@@ -14,3 +14,5 @@ node_modules
 Gemfile.lock
 *.swp
 *.swo
+_deploy.yml
+.deploy

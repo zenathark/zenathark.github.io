@@ -1,0 +1,96 @@
+---
+layout: page
+title: Starting Up
+permalink: LIS2051/starting-up
+---
+
+* Starting Up
+
+Prolog is kind of a niche language. However good, it remains as an
+obscure academic language often used on automatic theorem proving or
+as database query language.
+
+In contrast, this small tutorial is
+aimed to solve classic programming
+problems using prolog in order to be
+more friendly to new users.  So,
+while not heavy on the theorem
+proving or database quering part,
+some exercises show the strength of
+prolog on those areas.
+
+Firsts thing first, lets start our interpreter gprolog.This tutorial is based on the GNU Prolog interpreter.
+
+	   GNU Prolog 1.4.4 (64 bits)
+	   Compiled Apr  9 2016, 13:47:50 with clang
+	   By Daniel Diaz
+	   Copyright (C) 1999-2013 Daniel Diaz
+	   | ?-
+
+Here, you can see the prompt *| ?-*. This means the interpreter expects a query. This query will run
+agains our loaded program which, so far, is empty.
+
+First, lets try some arithmetic.
+
+		| ?- ANS is 4 + 2.
+
+		ANS = 6
+
+		yes
+		| ?- ANS is 5 * 7.
+
+		ANS = 35
+
+		yes
+		| ?- ANS is 53115 - 31990
+		.
+
+		ANS = 21125
+
+		yes
+		| ?- ANS is 5 / 2.
+
+		ANS = 2.5
+
+		yes
+
+This operations must be quite familiar for those that already knows an interpreted imperative
+programming language such as Python or Ruby. However, notice that instead of typing the operation
+directly, it was assigned to the variable *ANS*. This is because all operations must be bounded
+to a variable. You can try typing the operation alone an see for yourself.
+
+		| ?- 4 + 2.
+		uncaught exception: error(existence_error(procedure,(+)/2),top_level/0)
+
+This is because on this paradigm, the operation alone is not enough for it to "exists".
+
+Beside the aritmethic operations, there are two concepts introduced: Variables and the operator
+*is*. Variables are strings that starts with an Uppercase character followed by downcase and uppercase
+characters, and numbers. The operator *is* bounds the result of the evaluation to the variable on the
+left of it.
+
+Prolog is also able to test for equality.
+
+		| ?- 5 == 5.
+
+		yes
+		| ?- 3 < 5.
+
+		yes
+		| ?- 3 =< 5.
+
+		yes
+		| ?- 3 > 5.
+
+		no
+		| ?- 3 >= 5.
+
+		no
+		| ?- 4 \= 2.
+
+		yes
+
+There are a few things happening here. First, notice how this results need not to be bounded to a
+variable in order to be calculated. This is because a truth value is expected, hence the query is
+valid. Also, there are nome operators here that differ from more common languages, the greater or
+equal operator *>=* and the different operator *\=*.

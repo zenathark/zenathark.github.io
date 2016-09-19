@@ -320,7 +320,7 @@ yes
 </code></pre>
 </div>
 
-<p>Ruling the Kingdom.</p>
+<h2 id="ruling-the-kingdom">Ruling the Kingdom.</h2>
 
 <p>In Prolog, programs are composed of clauses. A clause is a goal with a full stop. There are
 two types of clauses: rules and facts.</p>
@@ -385,6 +385,111 @@ yes
 <p>We got rid of the warning and now we can invoke our rule. Notice that we need to pass two
 parameters now so we can get our result back. If we want to save the result of a rule, we
 need to pass a variable as a parameter.</p>
+
+<h2 id="list-o-list">List-o-list</h2>
+
+<p>Lists are one of the most used data structure on functional and logic programming.
+Most of the time we will be obtaining a list from a query.</p>
+
+<p>Lists are heterogeneous containers. They can store elements with different data
+types. Let’s see an example</p>
+
+<div class="highlighter-rouge"><pre class="highlight"><code>| ?- Numbers=[4,4,7,51,5.5].
+
+Numbers = [4,4,7,51,5.5]
+
+(1 ms) yes
+</code></pre>
+</div>
+
+<p>Here, <code class="highlighter-rouge">Numbers</code> is a variable that has been bound to a mixed list of float and
+integer numbers. Lists are denoted by square brackets and the elements of the
+list are separated by commas. Also, notice that we used the <code class="highlighter-rouge">=</code> operator instead
+of <code class="highlighter-rouge">is</code>. The keyword <code class="highlighter-rouge">is</code> is reserved for arithmetic operations. For bounding
+an atom or list to a variable, the operator <code class="highlighter-rouge">=</code> is used. Another example of
+lists</p>
+
+<div class="highlighter-rouge"><pre class="highlight"><code>| ?- MixedList=[a, 5, X, "oeu", 5.1].
+
+MixedList = [a,5,X,[111,101,117],5.0999999999999996]
+
+yes
+</code></pre>
+</div>
+
+<p>This list also contains a variable and a string. Strings are lists too. A string
+is a list of characters represented by its ASCII code value.</p>
+
+<p>There are two common tasks using lists: concatenate lists and getting an element.
+Concatenating can be done using the rule <code class="highlighter-rouge">append/3</code>. Here we also introduce a new
+notation. Each rule is represented by its name, in this case <code class="highlighter-rouge">append</code>, and its
+arity or the number of arguments. Thereof, <code class="highlighter-rouge">append/3</code> requires three arguments:
+two lists L1 and L2, and L3 that is the combination of L1 and L2.</p>
+
+<div class="highlighter-rouge"><pre class="highlight"><code>| ?- append([a, b], [c, d], [a, b, c, d]).
+
+yes
+</code></pre>
+</div>
+
+<p>This example shows how the <code class="highlighter-rouge">append/3</code> rule evaluates if the third list contains
+all the elements of the first two lists. The order is also taken into account
+when evaluating. Because of this, something like the following won’t work</p>
+
+<div class="highlighter-rouge"><pre class="highlight"><code>| ?- append([a, b], [c, d], [a, b, d, c]).
+
+no
+</code></pre>
+</div>
+
+<p>If we want <code class="highlighter-rouge">append/3</code> to calculate the concatenation, we only need to replace
+the third list with a variable</p>
+
+<div class="highlighter-rouge"><pre class="highlight"><code>| ?- append([a, b], [c, d], L3).
+
+L3 = [a,b,c,d]
+
+(1 ms) yes
+</code></pre>
+</div>
+
+<p>We also need to extract information from lists. The <code class="highlighter-rouge">|</code> operator allows to
+split the list in two parts: head and tail.</p>
+
+<div class="highlighter-rouge"><pre class="highlight"><code>| ?- [Head | Tail] = [a, b, c, d].
+
+Head = a
+Tail = [b,c,d]
+
+yes
+</code></pre>
+</div>
+
+<p>The rule <code class="highlighter-rouge">last/2</code> evaluates if the second term is the last of the first term</p>
+
+<div class="highlighter-rouge"><pre class="highlight"><code>| ?- last([a, b, c, d], L).
+
+L = d
+
+yes
+</code></pre>
+</div>
+
+<p>From the <a href="www.learnyouahaskell.com">Learn You a Haskell</a> web site, we can see
+a list as a monster like this</p>
+
+<p><img src="../img/listmonster.png" alt="Monster List" /></p>
+
+<p>Be careful when using empty lists, some rules will fail on them</p>
+
+<div class="highlighter-rouge"><pre class="highlight"><code>| ?- [|].
+uncaught exception: error(syntax_error('user_input:32 (char:2) expression or ] expected in list'),read_term/3)
+
+| ?- last([], L).
+
+no
+</code></pre>
+</div>
 
   </div>
 

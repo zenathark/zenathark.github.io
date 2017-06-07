@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Hugo identity</title>
+    <link>http://juancgalan.com/post/</link>
+    <description>Recent content in Posts on Hugo identity</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 06 Jun 2017 19:19:05 -0500</lastBuildDate>
+    
+	<atom:link href="http://juancgalan.com/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>welcome</title>
+      <link>http://juancgalan.com/post/welcome/</link>
+      <pubDate>Tue, 06 Jun 2017 19:19:05 -0500</pubDate>
+      
+      <guid>http://juancgalan.com/post/welcome/</guid>
+      <description>The standard Lorem Ipsum passage, used since the 1500s
+&amp;ldquo;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
+    </item>
+    
+  </channel>
+</rss>

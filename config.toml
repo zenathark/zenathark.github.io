@@ -2,6 +2,7 @@ baseUrl = "http://juancgalan.com"
 languageCode = "en-us"
 title = "Hugo identity"
 theme = "hugo-strata"
+publishDir = "docs"
 
 paginate = 10
 

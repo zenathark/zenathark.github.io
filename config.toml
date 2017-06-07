@@ -1,4 +1,4 @@
-baseUrl = "http://juancgalan.com"
+baseUrl = "http://juancgalan.com/"
 languageCode = "en-us"
 title = "Hugo identity"
 theme = "hugo-strata"

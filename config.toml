@@ -1,6 +1,6 @@
 baseUrl = "http://juancgalan.com/"
 languageCode = "en-us"
-title = "Hugo identity"
+title = "Dr. Juan Carlos Galán Hernández"
 theme = "hugo-strata"
 publishDir = "public"
 
@@ -49,12 +49,12 @@ paginate = 10
 		content = "UAOEUOEUAIOUAE"
 
 		address = [
+			"Room LA202",
+			"Universidad de las Américas Puebla",
 		        "Sta. Catarina Martir",
 		        "San Andres Cholula, Puebla, C.P. 72810",
 			"Mexico"
                 ]
-
-		phone = "000-000-0000"
 
 		email = "juan.galan@udlap.mx"
 

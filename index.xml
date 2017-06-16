@@ -6,10 +6,46 @@
     <description>Recent content on Dr. Juan Carlos Galán Hernández</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 06 Jun 2017 19:40:44 -0500</lastBuildDate>
+    <lastBuildDate>Fri, 16 Jun 2017 15:26:47 -0500</lastBuildDate>
     
 	<atom:link href="http://juancgalan.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>wp3</title>
+      <link>http://juancgalan.com/wp3/</link>
+      <pubDate>Fri, 16 Jun 2017 15:26:47 -0500</pubDate>
+      
+      <guid>http://juancgalan.com/wp3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>wp2</title>
+      <link>http://juancgalan.com/wp2/</link>
+      <pubDate>Fri, 16 Jun 2017 15:26:44 -0500</pubDate>
+      
+      <guid>http://juancgalan.com/wp2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>wp1</title>
+      <link>http://juancgalan.com/wp1/</link>
+      <pubDate>Fri, 16 Jun 2017 15:26:39 -0500</pubDate>
+      
+      <guid>http://juancgalan.com/wp1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>resume</title>
+      <link>http://juancgalan.com/resume/</link>
+      <pubDate>Fri, 16 Jun 2017 15:26:13 -0500</pubDate>
+      
+      <guid>http://juancgalan.com/resume/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>about</title>

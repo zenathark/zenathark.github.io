@@ -2466,7 +2466,7 @@
 		background-image: url("images/overlay.png"), url("../images/bg.jpg");
 		background-position: top left,							top left;
 		background-repeat: repeat,								no-repeat;
-		background-size: auto,								auto 100%;
+		background-size: auto, auto 140%;
 		color: rgba(255, 255, 255, 0.5);
 		height: 100%;
 		left: 0;
@@ -3134,17 +3134,27 @@
 		margin-top: 1.5em;
 	}
 
+	#header h1 strong {
+	    font-size: 1.0em;
+	}
+
+	#header h1 p {
+	    font-size: 0.7em;
+	    line-height: 1.5em;
+	}
+
 	#sidebar ul li {
 		list-style: none;
-		font-size: 1.35em;
+		font-size: 0.8em;
 		line-height: 1.5em;
 	}
 
 	#sidebar ul li a,
 	#sidebar ul li a a:visited {
-		color: #a2a2a2;
+		color: #ffffff;
 		text-decoration: none;
 	}
+
 
 
 /*
@@ -3154,4 +3164,15 @@
  .recent-posts li {
 	 font-size: 20px;
 	 line-height: 36px;
+ }
+
+ section blockquote {
+     text-align: right;
+     margin-left: 20%;
+     width: 80%;
+ }
+
+ footer {
+     font-size: 0.8em;
+     line-height: 1em;
  }

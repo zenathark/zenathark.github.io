@@ -17,7 +17,7 @@ paginate = 10
 
 	[params.sidebar]
 		avatar = "avatar.png"
-		bio = "I'm weeee"
+		bio = "**Dr. Juan Carlos Galán Hernández** <p> Researcher, Writer, Game Designer,<br> Programming Languages Enthusiast.</p>"
 		twitter = "zenathark"
 		github = "zenathark"
 		dribbble = ""
@@ -27,16 +27,23 @@ paginate = 10
 		linkedin = ""
 		
 		copyright = [
-			"&copy; Juan Carlos Galán Hernández"
+			"Created by Juan Carlos Galán Hernández",
+			"Theme based on [Strata](https://github.com/digitalcraftsman/hugo-strata-theme)",
+			"Original background by [Jesse Vincent](https://fsck.com/)",
+			"Powered by [Hugo](http://gohugo.io)",
+			"Hosted by [Github](http://pages.github.com)",
+			"Content of this site is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)",
+			"Code is licensed under [MIT License](https://opensource.org/licenses/mit-license.html)"
+			
 		]
 	
 	[params.about]
 		hide = false
-		title = "Ipsum"
-		content = "weouotuh"
+		title = "Welcome!"
+		content = "Welcome to my personal page. <br><br> Here you will find some of my research about Programming Languages, Game Design and Signal Processing. And some times I will also ramble about progamming tools and anime.<br> Feel free to look around. <blockquote> The language in which we express our ideas has a strong influence on our thought processes. <br> - Donald Ervin Knuth, Literate Programming </blockquote>"
 
 	[params.portfolio]
-		hide = false
+		hide = true
 		title = "Publications"
 		
 		[[params.portfolio.gallery]]
@@ -46,7 +53,7 @@ paginate = 10
 	[params.contact]
 		hide = false
 		title = "Get In Touch"
-		content = "UAOEUOEUAIOUAE"
+		# content = "UAOEUOEUAIOUAE"
 
 		address = [
 			"Room LA202",
@@ -70,6 +77,31 @@ paginate = 10
 	weight = 0
 
 [[menu.main]]
-	name = "Blog"
+	name = "Writer's Journal"
 	url = "post/"
+	weight = 60 
+
+[[menu.main]]
+	name = "About This Site"
+	url = "about/"
 	weight = 10
+
+[[menu.main]]
+	name = "About Me"
+	url = "resume/"
+	weight = 20
+
+[[menu.main]]
+	name = "Writing Project #1"
+	url = "wp1/"
+	weight = 30
+
+[[menu.main]]
+	name = "Writing Project #2"
+	url = "wp2/"
+	weight = 40
+
+[[menu.main]]
+	name = "Writing Project #3"
+	url = "wp3/"
+	weight = 50

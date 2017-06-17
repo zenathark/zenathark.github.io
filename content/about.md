@@ -2,12 +2,45 @@
 categories = []
 date = "2017-06-06T19:40:44-05:00"
 tags = []
-title = "about"
+title = "About This Site"
 
 +++
-The standard Lorem Ipsum passage, used since the 1500s
+Welcome to my personal web site.
 
-"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
-Section 1.10.32 of "de Finibus Bonorum et Malorum", written by Cicero in 45 BC
+On this site you will find content about my research on Digital Signal
+Processing, Image Processing and Video Processing.
 
-"Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?"
+Also, I like to write about Programming Languages, mainly focused on its design
+and advantages on different implementations. Some Programming Languages I like
+are Julia, Rust, Scala, Lisp and its variants, Haskell, etc.  With the use of
+different languages come its tools. I will also be writing about programming
+tools and how them impact the development. Currently I use a customized
+[emacs](https://www.gnu.org/software/emacs/) editor. My dotfile configuration
+can be downloaded from my [github
+repository](https://github.com/zenathark/dotfiles/).  You can also find content
+about Game Design specifically on programming techniques for different game
+mechanics and engines.
+
+The content of this site is written for Computer Sciences undergrad and
+postgraduate students, and the general academic community. Also, game design
+enthusiast can find something of interest.
+
+Finally, on this site I also include a list of my [publications](/publications/)
+and links to my different social media accounts.
+
+The information of this site is licensed under the [Creative Commons by 4.0
+license](https://creativecommons.org/licenses/by/4.0/) that allows copy and
+redistribute of the material in any medium or format, remix and build upon the
+material. You must give appropriate credit. All gists and source code are
+licensed under the [MIT
+License](https://opensource.org/licenses/mit-license.html).
+
+This site was build while taking the [Global Fresh Academy
+ENG101E](https://courses.edx.org/courses/course-v1:ASUx+ENG101x+2174C/info)
+course.
+
+
+------------------------------------------------------------------------------
+
+|[The WPA Outcomes for First-Year Composition](http://wpacouncil.org/positions/outcomes.html)|You may find the WPA Outcomes for First-Year Composition @ http://wpacouncil.org/positions/outcomes.html or by clicking on the title to the left of this text box.|
+|[The Framework for Success in Postsecondary Writing](http://wpacouncil.org/framework)|You may find the Framework for Success in Postsecondary Writing @ http://wpacouncil.org/framework or by clicking on the title to the left of this text box.|

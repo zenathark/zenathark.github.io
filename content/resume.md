@@ -9,7 +9,7 @@ title = "About Me"
 Juan Carlos Galán Hernández
 ===========================
 
-I'm a part-time lecturer on the [Department of Computing, Electronics and Mechatronics](http://web.udlap.mx/ingenieria/departamentos/computacion-electronica-mecatronica/) at [Universidad de las Américas Puebla](http://udlap.mx). I theach the following courses
+I'm a part-time lecturer on the [Department of Computing, Electronics and Mechatronics](http://web.udlap.mx/ingenieria/departamentos/computacion-electronica-mecatronica/) at [Universidad de las Américas Puebla](http://udlap.mx). I teach the following courses
 
 -   Undergraduate Courses:
     -   Introduction to Programming

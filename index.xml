@@ -6,10 +6,20 @@
     <description>Recent content on Dr. Juan Carlos Galán Hernández</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 16 Jun 2017 15:26:47 -0500</lastBuildDate>
+    <lastBuildDate>Fri, 16 Jun 2017 17:55:10 -0500</lastBuildDate>
     
 	<atom:link href="http://juancgalan.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>About Me</title>
+      <link>http://juancgalan.com/resume/</link>
+      <pubDate>Fri, 16 Jun 2017 17:55:10 -0500</pubDate>
+      
+      <guid>http://juancgalan.com/resume/</guid>
+      <description> Juan Carlos Galán Hernández I&amp;rsquo;m a part-time lecturer on the Department of Computing, Electronics and Mechatronics at Universidad de las Américas Puebla. I theach the following courses
+ Undergraduate Courses:  Introduction to Programming Object Oriented Programming Paradigms and Programming Languages Networks and Server Management Video Game Design Advanced Video Game Design  Graduate Courses:  Topics on Augmented Reality   Academic Interests, Experience, and Achievements Interests  Programming Languages Design Digital Signal Processing Image and Video Processing Data Compression Video Game Design  Work Experience            Place Date   Part-Time Lecturer Universidad de las Américas Puebla Winter 2014 - To Date   Research Stay Instituto Nacional de Astrofísica, Óptica y Electrónica Spring 2014 - Summer 2014   Research Stay Imperial College London Winter 2012 - Spring 2013   System Administrator/Developer Universidad Popular Autónoma del Estado de Puebla Summer 2008 - Spring 2009   Developer Business And Legal Solutions 2007    Conference Ad hoc Reviewer  IEEE International Conference on Electronics, Communications and Computers, CONIELECOMP 2013-2016 International Conference on Computer Vision Theory and Application, VISAPP 2016  Achievements  Magna Cum Laude, PhD on Computer Sciences, 2014 Cum Laude, Master&amp;rsquo;s Degree on Computer Science, 2008  Colleges and Universities Attended           Degree College Year   PhD on Computer Sciences Universidad de las Américas Puebla 2014   Master&amp;rsquo;s Degree on Computer Sciences Benemérita Universidad Autónoma de Puebla 2008   Bachelor&amp;rsquo;s Degree on Computer Sciences Benemérita Universidad Autónoma de Puebla 2005       A Sense of My Identity as a Writer TODO         My Short- and Long-Term Goals as a Writer TODO      </description>
+    </item>
     
     <item>
       <title>wp3</title>
@@ -39,22 +49,25 @@
     </item>
     
     <item>
-      <title>resume</title>
-      <link>http://juancgalan.com/resume/</link>
-      <pubDate>Fri, 16 Jun 2017 15:26:13 -0500</pubDate>
-      
-      <guid>http://juancgalan.com/resume/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>about</title>
+      <title>About This Site</title>
       <link>http://juancgalan.com/about/</link>
       <pubDate>Tue, 06 Jun 2017 19:40:44 -0500</pubDate>
       
       <guid>http://juancgalan.com/about/</guid>
-      <description>The standard Lorem Ipsum passage, used since the 1500s
-&amp;ldquo;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
+      <description>Welcome to my personal web site.
+On this site you will find content about my research on Digital Signal Processing, Image Processing and Video Processing.
+Also, I like to write about Programming Languages, mainly focused on its design and advantages on different implementations. Some Programming Languages I like are Julia, Rust, Scala, Lisp and its variants, Haskell, etc. With the use of different languages come its tools. I will also be writing about programming tools and how them impact the development.</description>
+    </item>
+    
+    <item>
+      <title>About This Site</title>
+      <link>http://juancgalan.com/about/</link>
+      <pubDate>Tue, 06 Jun 2017 19:40:44 -0500</pubDate>
+      
+      <guid>http://juancgalan.com/about/</guid>
+      <description>Welcome to my personal web site.
+On this site you will find content about my research on Digital Signal Processing, Image Processing and Video Processing.
+Also, I like to write about Programming Languages, mainly focused on its design and advantages on different implementations. Some Programming Languages I like are Julia, Rust, Scala, Lisp and its variants, Haskell, etc. With the use of different languages come its tools. I will also be writing about programming tools and how them impact the development.</description>
     </item>
     
     <item>

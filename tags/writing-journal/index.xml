@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Dr. Juan Carlos Galán Hernández</title>
-    <link>http://juancgalan.com/post/</link>
-    <description>Recent content in Posts on Dr. Juan Carlos Galán Hernández</description>
+    <title>Writing Journal on Dr. Juan Carlos Galán Hernández</title>
+    <link>http://juancgalan.com/tags/writing-journal/</link>
+    <description>Recent content in Writing Journal on Dr. Juan Carlos Galán Hernández</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 19 Jun 2017 17:13:23 -0500</lastBuildDate>
     
-	<atom:link href="http://juancgalan.com/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://juancgalan.com/tags/writing-journal/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -19,16 +19,6 @@
       <guid>http://juancgalan.com/post/writing-journal-1/</guid>
       <description>Outcomes Reflection The Arizona State University offers a course through edx.org called ENG101 English Composition.
 I decided to take this course in order to improve my writing skills overall. As researcher, most of my work is published on technical journals that require an specific structure that for us who english is our second language is easy to follow. However, I have found that while is easy to just blindly follow the classic technical writing style, in order to write high quality papers I have to be aware of how I do my writing.</description>
-    </item>
-    
-    <item>
-      <title>welcome</title>
-      <link>http://juancgalan.com/post/welcome/</link>
-      <pubDate>Tue, 06 Jun 2017 19:19:05 -0500</pubDate>
-      
-      <guid>http://juancgalan.com/post/welcome/</guid>
-      <description>The standard Lorem Ipsum passage, used since the 1500s
-&amp;ldquo;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
     </item>
     
   </channel>

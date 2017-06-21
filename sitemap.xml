@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://juancgalan.com/post/writing-journal-2/</loc>
+    <lastmod>2017-06-20T18:22:26-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://juancgalan.com/post/writing-journal-1/</loc>
     <lastmod>2017-06-19T17:13:23-05:00</lastmod>
   </url>
@@ -49,18 +54,25 @@
   
   <url>
     <loc>http://juancgalan.com/</loc>
-    <lastmod>2017-06-19T17:13:23-05:00</lastmod>
+    <lastmod>2017-06-20T18:22:26-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://juancgalan.com/tags/learning/</loc>
+    <lastmod>2017-06-20T18:22:26-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://juancgalan.com/post/</loc>
-    <lastmod>2017-06-19T17:13:23-05:00</lastmod>
+    <lastmod>2017-06-20T18:22:26-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://juancgalan.com/tags/</loc>
+    <lastmod>2017-06-20T18:22:26-05:00</lastmod>
     <priority>0</priority>
   </url>
   

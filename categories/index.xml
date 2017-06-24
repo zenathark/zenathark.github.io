@@ -10,5 +10,14 @@
 	<atom:link href="http://juancgalan.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
+    <item>
+      <title>Writing Journal</title>
+      <link>http://juancgalan.com/categories/writing-journal/</link>
+      <pubDate>Fri, 23 Jun 2017 19:50:00 -0500</pubDate>
+      
+      <guid>http://juancgalan.com/categories/writing-journal/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

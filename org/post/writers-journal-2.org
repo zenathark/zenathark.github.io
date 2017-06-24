@@ -1,13 +1,12 @@
 #+begin_export html
 +++
-categories = []
+categories = ['Writing Journal']
 date = "2017-06-20T18:22:26-05:00"
 tags = ["Learning"]
-title = "Writer's Journal #2"
+title = "Learning Process (WJ #2)"
 
 +++
 #+end_export
-* Learning Process
    As a teacher, a question that I often hear from my students is "How can I
    learn X?". One of the best ways to ensure that you will learn is to find out
    which mechanisms are reqired for learning.

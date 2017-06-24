@@ -1,13 +1,10 @@
 +++
-categories = []
+categories = ['Writing Journal']
 date = "2017-06-19T17:13:23-05:00"
-tags = ["Writing Journal"]
-title = "Writer's Journal #1"
+tags = ["Writing"]
+title = "Outcomes Reflection (WJ #1)"
 
 +++
-
-Outcomes Reflection
-===================
 
 The Arizona State University offers a course through *edx.org* called **ENG101 English Composition**.
 

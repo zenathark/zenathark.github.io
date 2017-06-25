@@ -1,5 +1,5 @@
 +++
-categories = ['Writing Journal' ]
+categories = ["Writer's Journal" ]
 date = "2017-06-23T19:50:00-05:00"
 tags = ['Writing']
 title = "Fast-Writes (WJ #8)"

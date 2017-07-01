@@ -6,10 +6,19 @@
     <description>Recent content on Dr. Juan Carlos Galán Hernández</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 25 Jun 2017 15:51:00 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 28 Jun 2017 15:51:00 -0500</lastBuildDate>
     
 	<atom:link href="http://juancgalan.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Japan&#39;s Cultural Influence in Mexican Teenagers</title>
+      <link>http://juancgalan.com/wp1/</link>
+      <pubDate>Wed, 28 Jun 2017 15:51:00 -0500</pubDate>
+      
+      <guid>http://juancgalan.com/wp1/</guid>
+      <description>Since a few years ago, the youth in Mexico is going through a crisis of cultural identity. No longer are common the old values of family and honor that our grandparent&amp;rsquo;s held. It is past the time when people trusted each other. This crisis is a result of a set of problems accumulated from past generations. Most parents and teachers have hard time teaching younger generations what does it means to be Mexicans as many of them don&amp;rsquo;t have a clear idea either.</description>
+    </item>
     
     <item>
       <title>Generative Writing (WJ #9)</title>
@@ -135,15 +144,6 @@ Also, I like to write about Programming Languages, mainly focused on its design 
       <guid>http://juancgalan.com/post/welcome/</guid>
       <description>The standard Lorem Ipsum passage, used since the 1500s
 &amp;ldquo;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>http://juancgalan.com/wp1/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://juancgalan.com/wp1/</guid>
-      <description>How Japan&amp;rsquo;s cultural values are being adopted by young Mexicans. Since a few years ago, the youth in Mexico is going through what I see as a crisis of cultural identity. No longer with hold the old values of family and honor. It is past the time when people trusted each other. Teenagers in turn are in the search for values that resonate with them. Some of them have found such ideas in foreign cultures, in particular Asian cultures like the Chinese, South Korean and Japan cultures.</description>
     </item>
     
   </channel>

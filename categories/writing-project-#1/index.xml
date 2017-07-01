@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Identity on Dr. Juan Carlos Galán Hernández</title>
-    <link>http://juancgalan.com/tags/identity/</link>
-    <description>Recent content in Identity on Dr. Juan Carlos Galán Hernández</description>
+    <title>Writing Project #1 on Dr. Juan Carlos Galán Hernández</title>
+    <link>http://juancgalan.com/categories/writing-project-#1/</link>
+    <description>Recent content in Writing Project #1 on Dr. Juan Carlos Galán Hernández</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 28 Jun 2017 15:51:00 -0500</lastBuildDate>
     
-	<atom:link href="http://juancgalan.com/tags/identity/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://juancgalan.com/categories/writing-project-#1/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -18,15 +18,6 @@
       
       <guid>http://juancgalan.com/wp1/</guid>
       <description>Since a few years ago, the youth in Mexico is going through a crisis of cultural identity. No longer are common the old values of family and honor that our grandparent&amp;rsquo;s held. It is past the time when people trusted each other. This crisis is a result of a set of problems accumulated from past generations. Most parents and teachers have hard time teaching younger generations what does it means to be Mexicans as many of them don&amp;rsquo;t have a clear idea either.</description>
-    </item>
-    
-    <item>
-      <title>Generative Writing (WJ #9)</title>
-      <link>http://juancgalan.com/post/writers-journal-9/</link>
-      <pubDate>Sun, 25 Jun 2017 15:51:00 -0500</pubDate>
-      
-      <guid>http://juancgalan.com/post/writers-journal-9/</guid>
-      <description>I’m member of a community that enjoys the art and animation that comes from japan. In other words, I’m an Otaku. I knew the term Otaku when I was in high school, after I was already into this culture of giant robots and mythical heroes for years. Where honor and dreams are the goal and the struggle to achieve them the journey. In other words, stories filled with heroes in a journey.</description>
     </item>
     
   </channel>
